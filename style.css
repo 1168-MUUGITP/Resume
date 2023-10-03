@@ -1,0 +1,58 @@
+body{
+    font-family: 'Pixelify Sans', cursive;
+}
+.container{
+width: 1000px;
+background-color: lightskyblue;
+margin-left: auto;
+margin-right: auto;
+height: 700px;
+}
+h4{
+    margin: 0px;
+}
+.header{
+    border-radius: 10px;
+    width: 950px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    
+}
+.name{
+   font-size: 20px;
+   float: left;
+   margin-left: 30px;
+}
+.details{
+    font-size: 15px;
+    text-align: end;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+img{
+    width: 150px;
+    border-radius: 5%;
+    margin-left: 425px;
+}
+.dets{
+    border-radius: 10px;
+    width: 475px;
+    background-color: white;
+    margin-left: 25px;
+   
+    float: left;
+    
+}
+.detss{
+   
+        border-radius: 10px;
+        width: 475px;
+        background-color: white;
+       margin-right: 25px;
+       
+        float: right;
+        
+    
+}
